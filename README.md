@@ -21,3 +21,15 @@ python download_video.py
 
 $ python download_video.py
 Введите ссылку: https://www.youtube.com/watch?v=example
+
+
+## Лицензия
+
+Этот проект распространяется под лицензией MIT. Подробнее см. в файле [LICENSE](LICENSE).
+
+
+## Планы на будущее
+
+- Добавить поддержку загрузки плейлистов.
+- Добавить графический интерфейс (GUI).
+- Поддержка других платформ (например, Vimeo, Dailymotion).
